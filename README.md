@@ -39,3 +39,5 @@ I separated this folder to put the two pages that the application has<br><br>
 Here is the configuration of the routes in the browser that the application has<br><br>
 
 
+<h1>Deployed</h1>
+<h3>https://golden-gaufre-db2ee3.netlify.app</h3>
